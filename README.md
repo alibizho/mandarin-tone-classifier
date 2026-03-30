@@ -31,9 +31,9 @@ Open http://localhost:5173.
 
 ## Results
 
-![Training curves](./docs/training_curves.png)
+![Training curves](./docs/loss-and-accuracy.png)
 
-![Confusion matrix](./docs/confusion_matrix.png)
+![Confusion matrix](./docs/confusion-matrix.png)
 
 ## Training
 
