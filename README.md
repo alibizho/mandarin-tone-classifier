@@ -4,7 +4,7 @@ This is a project that I have wanted to do for a while. Since Mandarin is a tona
 
 The model classifies isolated Mandarin syllables into tones 1–4, with a web-based tone trainer demo.
 
-**Model**: 4-layer CNN trained on mel spectrograms from the [Tone Perfect](https://tone.lib.msu.edu/) dataset (~10,000 samples). Achieves 100% test accuracy on clean audio, trained with SpecAugment + Gaussian noise augmentation for robustness.
+**Model**: 4-layer CNN trained on mel spectrograms from the [Tone Perfect](https://tone.lib.msu.edu/) dataset (~10,000 samples). Achieves ~100% test accuracy on clean audio, trained with SpecAugment + Gaussian noise augmentation for robustness.
 
 ## Demo
 
